@@ -1,5 +1,3 @@
 ## About Me 🏳️‍🌈
 
-Hey, I'm Dan! I love learning new things and I'm pretty much a Python enthusiast. Also, I'm currently working as a Data Analytics Intern.
-
-![lets-have-fun-fun](https://github.com/dvndnts/dvndnts/assets/120872541/bdc48918-33c7-4139-9b0c-c4e130029d87)
+Hey, I'm Dan! I'm pretty much a Python enthusiast. Also, I'm currently working as a Data Analytics Intern and my favourite game is Life is Strange.
