@@ -16,7 +16,7 @@ class WhoAmI:
             'Playing guitar', 
             'Coming up with random ideas for coding'
             ]
-        self.favouritevideogame = "Life is Strange"
+        self.favourite_videogame = "Life is Strange"
     
     def current_goals(self) -> list:
         return [
