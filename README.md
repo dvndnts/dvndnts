@@ -1,5 +1,33 @@
-## About Me 🏳️‍🌈
+# <center> Hi, I'm Dan! 🏳️‍🌈</center>
+You can contact me by [e-mail](malito:dantasddan@outlook.com) and I'm also on [Discord](https://discordapp.com/users/shadysider).
 
-Hey, I'm Dan! I'm pretty much a Python enthusiast. Also, I'm currently working as a Data Analytics Intern and my favourite game is Life is Strange.
+<br>
 
-![png-transparent-life-is-strange-long-sleeved-t-shirt-hoodie-top-life-is-strange-video-game-neckline-shirt](https://github.com/dvndnts/dvndnts/assets/120872541/d84d4969-cdbb-40d2-b881-c8f4b3bb0e76)
+
+```python
+class WhoAmI:
+    def __init__(self):
+        self.name = "Daniele"  # but you can call me Dan :) 
+        self.position = "Data Analysis Intern"
+        self.country = "Brazil"
+        self.languages = ["pt_BR","en_US/en_GB"]
+        self.hobbies = [
+            'Singing/listening to music', 
+            'Playing guitar', 
+            'Coming up with random ideas for coding'
+            ]
+        self.favouritevideogame = "Life is Strange"
+    
+    def current_goals(self) -> list:
+        return [
+            'Learn Spanish',
+            'Read 5 books',
+            'Finish 2 Python projects',
+            'Learn more about Data Analysis/Data Science'
+        ]
+
+```
+<br>
+<br>
+
+![LIS-gif](https://media1.tenor.com/m/HnhN7N3XTMEAAAAC/life-is-strange-consequences.gif)
