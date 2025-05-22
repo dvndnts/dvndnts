@@ -18,12 +18,6 @@ class WhoAmI:
             ]
         self.favourite_videogame = "Life is Strange"
     
-    def current_goals(self) -> list:
-        return [
-            'Learn Spanish',
-            'Read 5 books',
-            'Finish 2 Python projects',
-            'Learn more about Data Analysis/Data Science'
         ]
 
 ```
