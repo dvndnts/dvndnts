@@ -1,5 +1,5 @@
 # <center> Hi, I'm Dan! 🏳️‍🌈</center>
-You can contact me by [e-mail](malito:dantasddan@outlook.com).
+You can contact me by [e-mail](mailto:dantasddan@outlook.com).
 
 <br>
 
