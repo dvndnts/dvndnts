@@ -1,5 +1,5 @@
 # <center> Hi, I'm Dan! 🏳️‍🌈</center>
-You can contact me by [e-mail](malito:dantasddan@outlook.com) and I'm also on [Discord](https://discordapp.com/users/shadysider).
+You can contact me by [e-mail](malito:dantasddan@outlook.com).
 
 <br>
 
