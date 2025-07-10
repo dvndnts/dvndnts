@@ -8,7 +8,7 @@ You can contact me by [e-mail](mailto:dantasddan@outlook.com).
 class WhoAmI:
     def __init__(self):
         self.name = "Daniele"  # but you can call me Dan :) 
-        self.position = "Data Analysis Intern"
+        self.position = "Data Scientist"
         self.country = "Brazil"
         self.languages = ["pt_BR","en_US/en_GB"]
         self.hobbies = [
