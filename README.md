@@ -13,8 +13,9 @@ class WhoAmI:
         self.languages = ["pt_BR","en_US/en_GB"]
         self.hobbies = [
             'Singing/listening to music', 
-            'Playing guitar', 
-            'Coming up with random ideas for coding'
+            'Playing guitar',
+            'Theater',
+            'Coming up with random ideas for Python scripts'
             ]
         self.favourite_videogame = "Life is Strange"
     
